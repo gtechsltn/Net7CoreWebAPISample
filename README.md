@@ -80,9 +80,24 @@ using Serilog;
 + CliFx
 + NSubstitute
 
+# .NET Libraries
++ https://medium.com/bina-nusantara-it-division/7-useful-net-libraries-you-will-need-ba3717e23dbd
++ AutoMapper
++ RestSharp
++ MailKit
++ LiteDB
++ CacheManager
++ SharpCompress
++ PuppeteerSharp
+
 # .NET 6
 + https://medium.com/scrum-and-coke/duende-identityserver-integration-with-external-providers-facebook-google-microsoft-github-and-b67bb74c5f1e
++ https://medium.com/scrum-and-coke/new-release-of-web-api-template-onionapi-67627dafe2e6
++ https://medium.com/bina-nusantara-it-division/implementing-jwt-in-asp-net-core-6-0-web-api-c-3a396fa8cfeb
++ https://medium.com/bina-nusantara-it-division/how-to-set-up-a-redis-server-4fc246965196
++ https://medium.com/@luisalexandre.rodrigues/using-asp-net-health-checks-to-monitor-application-status-b943dea57aeb
 + https://medium.com/scrum-and-coke/view-crystal-report-in-pdf-with-angular-and-asp-net-rest-api-1d6c72168e7c
++ https://medium.com/scrum-and-coke/angular-external-login-using-duende-identityserver-3f4b9b856622
 + https://medium.com/scrum-and-coke/secure-net-core-6-web-api-with-jwt-from-duente-identityserver-adf3518de965
 + https://medium.com/@dsylebee/secure-api-to-api-calls-with-azure-identity-with-app-registration-roles-in-asp-net-core-6-faff6314bbe1
 + https://medium.com/@jesoleil/monitoring-your-web-app-with-application-insights-6663dbda9b6d
