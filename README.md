@@ -15,9 +15,9 @@
 + Install-Package AutoWrapper.Core
 
 # Usage
-<code>using AutoWrapper;
+<pre>using AutoWrapper;
 using Serilog;
-</code>
+</pre>
   
 # References
 + https://medium.com/scrum-and-coke/error-handling-with-serilog-and-autowrapper-in-net-core-7-webapi-46d2f8e873f9
