@@ -35,6 +35,7 @@ using Serilog;
 + https://github.com/gtechsltn/Kafka-Demo
 
 # .NET Libraries
++ https://medium.com/geekculture/7-useful-net-libraries-you-should-use-in-your-next-project-3da5efb72069
 + Refit
 + Bogus
 + Docfx
@@ -42,3 +43,23 @@ using Serilog;
 + WebSocket
 + UnitsNet
 + Foundatio
+
+# .NET Libraries
++ https://medium.com/codex/7-useful-net-libraries-you-should-use-in-your-next-project-2cb49dd5df00
++ Serilog
++ NAudio
++ SharpZipLib
++ SuperSocket
++ Autofac
++ LazyCache
++ Caliburn
+
+# .NET Libraries
++ https://medium.com/geekculture/7-useful-net-libraries-you-should-use-in-your-next-project-e7e2ae00584f
++ MediatR
++ YamlDotNet
++ DbUp
++ Sprache
++ Shouldly
++ CliFx
++ NSubstitute
