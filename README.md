@@ -15,8 +15,7 @@
 + Install-Package AutoWrapper.Core
 
 # Usage
-<code>
-using AutoWrapper;
+<code>using AutoWrapper;
 using Serilog;
 </code>
   
@@ -26,3 +25,20 @@ using Serilog;
 + https://aka.ms/aspnetcore/swashbuckle
 + https://github.com/serilog/serilog
 + https://github.com/proudmonkey/AutoWrapper
+
+# IdSrv4
++ https://github.com/gtechsltn/AspNet-WebForm-IdentityServer4-PKCE
++ https://github.com/workcontrolgit/AspNet-WebForm-IdentityServer4-PKCE
+
+# Kafka
++ https://github.com/Jaydeep-007/Kafka-Demo/
++ https://github.com/gtechsltn/Kafka-Demo
+
+# .NET Libraries
++ Refit
++ Bogus
++ Docfx
++ MaterialDesignInXamlToolkit
++ WebSocket
++ UnitsNet
++ Foundatio
